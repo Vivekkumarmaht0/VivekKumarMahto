@@ -1,6 +1,6 @@
-<h1 align="center">👋 Hii there! I'm Vivek Kumar Mahto</h1>
-> *"Code. Learn. Improve."*
 
+# Hii 👋🏻 there! I'm Vivek Kumar Mahto
+> *"Code. Learn. Improve."*
 - I'm a Computer Science Under Graduate Student.
 
 ### 🎯 I’m currently learning:
