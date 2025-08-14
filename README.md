@@ -1,7 +1,8 @@
-
+[![MasterHead](https://user-images.githubusercontent.com/90236635/232446433-d5540fa2-fe28-4bb8-b929-cdb51fe61336.gif)](https://rishavchanda.io)
 # Hii 👋🏻 there! I'm Vivek Kumar Mahto
 > *"Code. Learn. Improve."*
 - I'm a Computer Science Under Graduate Student.
+  
 
 ### 🎯 I’m currently learning:
 - C++, Java, and Data Structures
@@ -25,4 +26,4 @@
 
 ---
 
-📫 Reach me: [LinkedIn](https://www.linkedin.com/in/vivek-kumar-mahto-0bb328340) | [Email](vivekkumarmahto101103@gmail.com)
+📫 Reach me: [LinkedIn](https://www.linkedin.com/in/vivek-kumar-mahto-0bb328340) | [Email](vivekkumarmahto101103@gmail.com) | [Instagram](https://www.instagram.com/itx.badal_/)
