@@ -26,4 +26,4 @@
 
 ---
 
-📫 Reach me: [LinkedIn](https://www.linkedin.com/in/vivek-kumar-mahto-0bb328340) | [Email](vivekkumarmahto101103@gmail.com) | [Instagram](https://www.instagram.com/itx.badal_/)
+📫 Reach me: [LinkedIn](https://www.linkedin.com/in/vivek-kumar-mahto-0bb328340) | [Email](mailto:vivekkumarmahto101103@gmail.com) | [Instagram](https://www.instagram.com/itx.badal_/)
